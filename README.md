@@ -9,7 +9,7 @@ Hi, I'm Sheila Fatiha Az Zahra, a beginner in programming with a passion for lea
   - 🔭 I’m currently study at PLN Technology of Institute.
   - 🌱 I’m currently learning; UI/UX Design, Adobe Photoshop, C++, Adobe Premiere.
   - 💬 Ask me about **Canva, Scratch, Design, and some Multimedia**
-  - ⚡ Fun fact: I look like a cuties maybe cat <3.
+  - ⚡ Fun fact: I look like a cuties maybe like a cat <3.
 
 <h3 align="left">Activity:</h3>
 
